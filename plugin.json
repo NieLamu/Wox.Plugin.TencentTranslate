@@ -1,0 +1,12 @@
+{
+  "ID":"CB4CF8A11D39457882A9AF8AC84ACD23",
+  "ActionKeywords":["tt", "qf"],
+  "Name":"tencentTranslate",
+  "Description":"Tencent translate plugin for Wox",
+  "Author":"NieLamu",
+  "Version":"1.0.0",
+  "Language":"python",
+  "Website":"https://github.com/Nielamu/Wox.Plugin.TencentTranslate",
+  "IcoPath": "img\\logo.png",
+  "ExecuteFileName":"tt.py"
+}
